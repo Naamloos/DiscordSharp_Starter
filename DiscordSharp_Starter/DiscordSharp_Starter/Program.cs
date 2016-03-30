@@ -14,8 +14,8 @@ namespace DiscordSharp_Starter
         {
             // First of all, a DiscordClient will be created, and the email and password will be defined.
             DiscordClient client = new DiscordClient();
-            client.ClientPrivateInformation.email = "Your Email";
-            client.ClientPrivateInformation.password = "Your password";
+            client.ClientPrivateInformation.Email = "Your Email";
+            client.ClientPrivateInformation.Password = "Your password";
 
             // Then, we are going to set up our events before connecting to discord, to make sure nothing goes wrong.
 
