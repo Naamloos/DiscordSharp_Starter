@@ -1,3 +1,5 @@
+#This project is now deprecated. Please use [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) instead.
+
 # SharpCord_Starter
 [Discord.NET version](https://github.com/NaamloosDT/Discord.NET_Starter)
 ### Introduction
